@@ -1,2 +1,4 @@
 # Payment Methods Report
- Ödeme yöntemleri kaç adet sipariş almış
+ Aktif durumda olan ödeme yöntemleri kaç adet sipariş için kullanılmış raporlaması.
+ 
+ Tarih filtrelemesi ve çoklu mağaza destekli.
